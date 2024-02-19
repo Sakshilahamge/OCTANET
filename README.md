@@ -1,4 +1,4 @@
-# CodeClause_To_Do_List
+#To_Do_List
 This website is still under development. I want to add more functionalities in it & make it more Advance. If you want to Contribute you're Welcome!
 
                         To-Do List
@@ -44,4 +44,4 @@ Contributing:
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 Feel free to explore and enjoy managing your to-do list with To-DoList!
 
-![ToDo list](/)
+![ToDo list](/priview.png)
