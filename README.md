@@ -42,9 +42,6 @@ Usage:
 
 Contributing:
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
-
-Contact:
-Mail: nvs0108@gmail.com
-Linkedin: https://in.linkedin.com/in/nvs0108
-
 Feel free to explore and enjoy managing your to-do list with To-DoList!
+
+![ToDo list](/)
